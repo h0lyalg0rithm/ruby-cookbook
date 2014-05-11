@@ -54,4 +54,4 @@ Contributing
 
 License and Authors
 -------------------
-Authors: TODO: Suraj Shirvankar
+Authors: Suraj Shirvankar
